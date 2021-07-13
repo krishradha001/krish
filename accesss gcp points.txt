@@ -1,0 +1,13 @@
+1) Management / Remote access
+
+2) Authentication and Authorization of App / Web (if using corporate AD, this should be discussed separately)
+
+3) proactive monitoring and assessment of the environment with respect to security as IS Infra Team is not performing any audits in GCP(till the team is building that capability)
+
+4) External and thirdparty access/connectivity details
+
+5) API security + VA
+
+6) Comprehensive Code level and product level VA on all third party Apps/ tools
+
+7) List of all Ports and services which will be used  as the part of the architecture
